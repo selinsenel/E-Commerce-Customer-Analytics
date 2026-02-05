@@ -18,22 +18,22 @@ This project delivers a comprehensive end-to-end data analysis solution for an e
 ## 🔍 Visual Analysis & Business Insights
 
 ### 1. Monthly Transaction Volume and Sales Trend
-![Monthly Trends](screenshots/Monthly Transaction Volume and Sales Trend)
+![Monthly Trends](screenshots/Monthly Transaction Volume and Sales Trend.png)
 * **What it shows:** An area chart depicting the fluctuation of transaction volume over time.
 * **Insight:** The data reveals a massive **November peak** (2,658 invoices), likely driven by seasonal promotions or Black Friday events. This indicates a high seasonal dependency for the business.
 
 ### 2. Customer Segmentation Breakdown (Count)
-![Segmentation](screenshots/Customer Segmentation)
+![Segmentation](screenshots/Customer Segmentation.png)
 * **What it shows:** A bar chart classifying the customer base into three strategic groups: Loyal, Regular, and High-Value.
 * **Insight:** While 'Regular Customers' make up the vast majority by count, the 'Loyal' group is the most consistent. I used a **Logarithmic Scale** here to ensure smaller but critical segments are clearly visible.
 
 ### 3. Segment-Based Total Revenue Distribution
-![Revenue Share](screenshots/Segment-Based Total Revenue Distribution)
+![Revenue Share](screenshots/Segment-Based Total Revenue Distribution.png)
 * **What it shows:** The total revenue contribution of each customer segment.
 * **Insight:** Even though 'Loyal' and 'High-Value' customers are fewer in number, they contribute disproportionately to the total revenue (over 2M and 200K respectively). This highlights the importance of retention over acquisition.
 
 ### 4. Customer Value Matrix (Volume vs. Frequency)
-![Scatter Plot](screenshots/Customer Value Matrix (Volume vs. Frequency)
+![Scatter Plot](screenshots/Customer Value Matrix (Volume vs. Frequency.png)
 * **What it shows:** A scatter plot mapping every customer based on their number of invoices versus their average revenue per invoice.
 * **Insight:** We can clearly identify **VIP outliers** (blue circles) at the top of the Y-axis. These are customers who shop infrequently but have an extremely high basket value ($70K+), requiring a separate account management strategy.
 
