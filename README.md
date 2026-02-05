@@ -5,9 +5,12 @@
 This project delivers a comprehensive end-to-end data analysis solution for an e-commerce dataset. By leveraging **SQL** for complex data transformations and **Tableau** for high-level business intelligence, I transformed raw transactional data into actionable strategic insights.
 
 ## 🛠️ Technical Stack
+* **Python:** Data Extraction & Loading 
 * **Database:** PostgreSQL (Data cleaning, CTEs, Window Functions, View creation)
 * **Visualization:** Tableau Desktop (Interactive Dashboards)
 * **Analysis:** RFM Modeling, Trend Analysis, Retention & Churn Analysis
+
+ - **Automated ETL Pipeline:** Developed a Python script to extract raw data from Excel, perform schema mapping, and load it directly into a PostgreSQL database for scalable analysis.
 
 ## 🖼️ Executive Dashboard
 ![Executive Dashboard](screenshots/image_2e075d.png)
@@ -41,6 +44,7 @@ This project delivers a comprehensive end-to-end data analysis solution for an e
 
 ## 📂 Project Structure
 * `sql-queries/`: Contains all SQL scripts for cleaning and analysis.
+* `scripts/`: Python ETL script for data ingestion.
 * `customer analysis.twbx`: The packaged Tableau workbook for deep-dive analysis.
 * `screenshots/`: Visual assets used in this documentation.
 
