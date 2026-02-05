@@ -42,6 +42,5 @@ This project delivers a comprehensive end-to-end data analysis solution for an e
 ## 📂 Project Structure
 * `sql-queries/`: Contains all SQL scripts for cleaning and analysis.
 * `customer analysis.twbx`: The packaged Tableau workbook for deep-dive analysis.
-* `screenshots/`: Visual assets used in this documentation.<img width="1082" height="2240" alt="image" src="https://github.com/user-attachments/assets/a25d28bd-56e7-4d18-80c4-97e211629d4b" />
-
+* `screenshots/`: Visual assets used in this documentation.
 
